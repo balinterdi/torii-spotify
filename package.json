@@ -1,7 +1,7 @@
 {
   "name": "torii-spotify",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Torii providers for Spotify",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Balint Erdi",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
@@ -40,8 +40,11 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember.js",
+    "authentication"
   ],
+  "license": "MIT",
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
   },
