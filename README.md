@@ -1,12 +1,10 @@
-# Torii-spotify
+# torii-spotify
 
-This README outlines the details of collaborating on this Ember addon.
+This add-on adds a `spotify-oauth2-bearer` provider to your Ember application. Torii itself must be installed in the app.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `ember install torii-spotify`
 
 ## Running
 
