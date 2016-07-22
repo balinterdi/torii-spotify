@@ -1,6 +1,6 @@
 {
   "name": "torii-spotify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Torii providers for Spotify",
   "directories": {
     "doc": "doc",
@@ -44,7 +44,6 @@
     "ember.js",
     "authentication"
   ],
-  "license": "MIT",
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
   },
