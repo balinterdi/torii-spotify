@@ -42,7 +42,8 @@
   "keywords": [
     "ember-addon",
     "ember.js",
-    "authentication"
+    "authentication",
+    "torii"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
